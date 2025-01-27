@@ -27,7 +27,7 @@ Use long-term trends to recommend station expansions or adjustments.
 
 # Data Pipeline Workflow
 
-![data pipeline](
+![data pipeline](https://github.com/chhejom/Citibike-Analysis/blob/8d07b1517758aea3dc708727f47e03b67b2300df/Images/data%20pipeline.png)
 1. Data Collection
 The dataset, sourced from the CitiBike website, contained millions of records across multiple CSV files and compressed zip archives.
 2. Data Preparation
