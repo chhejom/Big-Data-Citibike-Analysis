@@ -87,9 +87,9 @@ Steps
 * Use terminal commands or AWS CLI to upload files to S3.
 3. Run Glue ETL:
 * Set up Glue crawlers to prepare tables for Athena.
-4 Query in Athena:
+4. Query in Athena:
 * Execute SQL queries to analyze the data.
-5 Visualize in QuickSight:
+5. Visualize in QuickSight:
 * Build dashboards to present insights interactively.
 
 # Conclusion
