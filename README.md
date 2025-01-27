@@ -1,6 +1,6 @@
 # Citibike-Analysis (2019-2024)
 
-![Banner]
+![Banner](https://github.com/chhejom/Citibike-Analysis/blob/fc8b5c8d5a1c73d62e707de338af3c3608e81d67/Images/dataset-cover.png)
 # Project Overview
 
 This project analyzes CitiBike trip data from 2019 to 2024 to understand urban mobility patterns, user behavior, and station performance. By leveraging big data tools and cloud frameworks, the project aims to derive actionable insights that can support better decision-making in areas like resource allocation, user experience optimization, and infrastructure planning.
