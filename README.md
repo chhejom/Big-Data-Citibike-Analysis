@@ -72,6 +72,8 @@ Assessing the efficiency and demand for electric bikes compared to classic and d
 Hourly and daily trends to identify peak usage times.
 Recommendations for resource allocation during high-demand periods.
 
+https://github.com/chhejom/Citibike-Analysis/blob/b5635fb57eb0bbce8300d3d6012924fce4df377c/Images/Dashboard.pdf
+
 # How to Use This Project
 
 Prerequisites
