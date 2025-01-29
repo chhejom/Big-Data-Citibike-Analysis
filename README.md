@@ -28,32 +28,32 @@ Use long-term trends to recommend station expansions or adjustments.
 
 ![data pipeline](https://github.com/chhejom/Citibike-Analysis/blob/8d07b1517758aea3dc708727f47e03b67b2300df/Images/data%20pipeline.png)
 1. Data Collection
-The dataset, sourced from the CitiBike website, contained millions of records across multiple CSV files and compressed zip archives.
+* The dataset, sourced from the CitiBike website, contained millions of records across multiple CSV files and compressed zip archives.
 2. Data Preparation
 * Unzipping Files:
 Python script (unzip zipfile.py) automated the extraction of zip archives, saving time and reducing manual effort.
 * Combining CSV Files:
 Custom Python script (combine.py) merged multiple CSVs into a single, large file to streamline downstream analysis.
 4. Cloud Storage with AWS S3
-Uploaded preprocessed data to S3 for efficient and scalable storage.
-Leveraged terminal commands for faster uploads (2.5 MiB/s) compared to the AWS console (1.3 MB/s), reducing upload times by approximately 6.95 minutes per GB.
+* Uploaded preprocessed data to S3 for efficient and scalable storage.
+* Leveraged terminal commands for faster uploads (2.5 MiB/s) compared to the AWS console (1.3 MB/s), reducing upload times by approximately 6.95 minutes per GB.
 5. Data Transformation with AWS Glue
-Used Glue crawlers to automate schema discovery and create a structured table.
-Performed ETL tasks, including:
-Removing null rows.
-Transforming and optimizing schemas for query performance.
+* Used Glue crawlers to automate schema discovery and create a structured table.
+* Performed ETL tasks, including:
+- Removing null rows.
+- Transforming and optimizing schemas for query performance.
 6. Analysis with AWS Athena
-Conducted SQL-based analysis, including:
-Identifying the most popular stations and routes.
-Determining bike usage patterns by type (e.g., electric, classic).
-Analyzing user behavior (e.g., trip durations, membership types).
-Tracking long-term usage trends (yearly, monthly).
+* Conducted SQL-based analysis, including:
+* Identifying the most popular stations and routes.
+* Determining bike usage patterns by type (e.g., electric, classic).
+* Analyzing user behavior (e.g., trip durations, membership types).
+* Tracking long-term usage trends (yearly, monthly).
 7. Visualization with AWS QuickSight
-Created interactive dashboards to visualize:
-Temporal Trends: Monthly and yearly usage variations.
-Station Popularity: High-demand stations and routes.
-User Segmentation: Behavior differences between members and casual riders.
-Bike Type Preferences: Usage trends for classic, electric, and docked bikes.
+* Created interactive dashboards to visualize:
+* Temporal Trends: Monthly and yearly usage variations.
+* Station Popularity: High-demand stations and routes.
+* User Segmentation: Behavior differences between members and casual riders.
+* Bike Type Preferences: Usage trends for classic, electric, and docked bikes.
 
 # Types of Analysis Conducted
 
