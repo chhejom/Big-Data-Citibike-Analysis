@@ -30,9 +30,9 @@ Use long-term trends to recommend station expansions or adjustments.
 1. Data Collection
 The dataset, sourced from the CitiBike website, contained millions of records across multiple CSV files and compressed zip archives.
 2. Data Preparation
-Unzipping Files:
+* Unzipping Files:
 Python script (unzip zipfile.py) automated the extraction of zip archives, saving time and reducing manual effort.
-Combining CSV Files:
+* Combining CSV Files:
 Custom Python script (combine.py) merged multiple CSVs into a single, large file to streamline downstream analysis.
 4. Cloud Storage with AWS S3
 Uploaded preprocessed data to S3 for efficient and scalable storage.
