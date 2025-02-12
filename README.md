@@ -73,25 +73,7 @@ Assessing the efficiency and demand for electric bikes compared to classic and d
 Hourly and daily trends to identify peak usage times.
 Recommendations for resource allocation during high-demand periods.
 
-# How to Use This Project
 
-Prerequisites
-* AWS account with access to S3, Glue, Athena, and QuickSight.
-* Python environment with pandas and zipfile libraries installed.
-
-Steps
-
-1. Prepare Data:
-* Run combine.py to merge CSV files.
-* Run unzip zipfile.py to extract zip archives.
-2. Upload Data:
-* Use terminal commands or AWS CLI to upload files to S3.
-3. Run Glue ETL:
-* Set up Glue crawlers to prepare tables for Athena.
-4. Query in Athena:
-* Execute SQL queries to analyze the data.
-5. Visualize in QuickSight:
-* Build dashboards to present insights interactively.
 
 # Conclusion
 
