@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This project analyzes CitiBike trip data from 2019 to 2024 to understand urban mobility patterns, user behavior, and station performance. By leveraging big data tools and cloud frameworks, the project aims to derive actionable insights that can support better decision-making in areas like resource allocation, user experience optimization, and infrastructure planning.
+This project analyzes CitiBike trip data from 2019 to 2024 to understand urban mobility patterns, user behavior, and station performance. The project focuses on automating data extraction, cloud storage, transformation, and analysis to derive insights into urban mobility patterns, user behavior, and station performance.
 
 # Purpose of the Project
 
