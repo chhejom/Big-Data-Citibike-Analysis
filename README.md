@@ -8,12 +8,12 @@ This project analyzes CitiBike trip data from 2019 to 2024 to understand urban m
 
 As cities continue to evolve toward smart urban mobility systems, understanding patterns in bike-sharing data becomes essential. This project serves to:
 
-* Optimize Resource Allocation:
-Identify high-demand stations and peak usage times to ensure bikes are available where needed.
-* Enhance User Experience:
-Study trip durations and bike type preferences to improve service offerings.
-* Support Infrastructure Development:
-Use long-term trends to recommend station expansions or adjustments.
+Key Objectives:
+* Automate Data Processing: Develop an end-to-end ETL pipeline to extract CitiBike trip data, store it in the cloud, and transform it for analysis.
+* Improve Resource Allocation: Identify high-demand stations, peak usage hours, and seasonal trends to help optimize bike distribution and availability.
+* Enhance User Experience:  Analyze trip durations, ride frequency, and bike-type preferences to understand user behavior and improve service offerings.
+* Support Data-Driven Infrastructure Planning: Utilize historical and real-time trends to recommend station expansions, rebalancing strategies, and operational improvements.
+* Showcase Data Science & Cloud Skills: Demonstrate expertise in big data processing, cloud computing, SQL querying, and visualization, making this a strong portfolio project for a Data Scientist role.
 
 # Technologies and Tools
 
