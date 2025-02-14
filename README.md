@@ -8,7 +8,6 @@ This project analyzes CitiBike trip data from 2019 to 2024 to understand urban m
 
 As cities continue to evolve toward smart urban mobility systems, understanding patterns in bike-sharing data becomes essential. This project serves to:
 
-Key Objectives:
 * Automate Data Processing: Develop an end-to-end ETL pipeline to extract CitiBike trip data, store it in the cloud, and transform it for analysis.
 * Improve Resource Allocation: Identify high-demand stations, peak usage hours, and seasonal trends to help optimize bike distribution and availability.
 * Enhance User Experience:  Analyze trip durations, ride frequency, and bike-type preferences to understand user behavior and improve service offerings.
