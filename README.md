@@ -11,8 +11,7 @@ As cities continue to evolve toward smart urban mobility systems, understanding 
 * Automate Data Processing: Develop an end-to-end ETL pipeline to extract CitiBike trip data, store it in the cloud, and transform it for analysis.
 * Improve Resource Allocation: Identify high-demand stations, peak usage hours, and seasonal trends to help optimize bike distribution and availability.
 * Enhance User Experience:  Analyze trip durations, ride frequency, and bike-type preferences to understand user behavior and improve service offerings.
-* Support Data-Driven Infrastructure Planning: Utilize historical and real-time trends to recommend station expansions, rebalancing strategies, and operational improvements.
-* Showcase Data Science & Cloud Skills: Demonstrate expertise in big data processing, cloud computing, SQL querying, and visualization, making this a strong portfolio project for a Data Scientist role.
+* Showcase Data Science & Cloud Skills: Demonstrate expertise in big data processing, cloud computing, SQL querying, and visualization.
 
 # Technologies and Tools
 
