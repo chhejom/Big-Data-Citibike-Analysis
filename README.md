@@ -83,7 +83,7 @@ The analysis reveals that the most popular station in the dataset is W 21st & 6t
 
 Additionally data shows that Tribeca (West St & Chambers St) is the second most popular station, highlighting that office workers frequently take quick rides during work hours. Expanding docking station in these high-traffic business areas could further support mid-day commuters and leisure riders.
 
-The insights suggest that adding more CitiBike docks near shopping destination and commercail areas could better accomodate user demand for btoh transportation and convenience option in high traffic routes.
+The insights suggest that adding more CitiBike docks near shopping destination and commercial areas could better accomodate user demand for btoh transportation and convenience option in high traffic routes.
 
 # Conclusion
 
