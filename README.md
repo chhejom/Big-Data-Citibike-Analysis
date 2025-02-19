@@ -8,10 +8,10 @@ This project analyzes CitiBike trip data from 2019 to 2024 to understand urban m
 
 As cities continue to evolve toward smart urban mobility systems, understanding patterns in bike-sharing data becomes essential. This project serves to:
 
-* Automate Data Processing: Develop an end-to-end ETL pipeline to extract CitiBike trip data, store it in the cloud, and transform it for analysis.
-* Improve Resource Allocation: Identify high-demand stations, peak usage hours, and seasonal trends to help optimize bike distribution and availability.
+* Automate Data Processing: Develop an end-to-end ETL pipeline to extract CitiBike trip data, store it in the cloud back, and transform it for analysis and visualization.
+* Improve Resource Allocation: Identify trends and patterns to help optimize bike distribution and availability.
 * Enhance User Experience:  Analyze trip durations,  trip trends, and bike-type preferences to understand user behavior and improve service offerings.
-* Showcase Data Science & Cloud Skills: Demonstrate expertise in big data processing, cloud computing, SQL querying, and visualization.
+* Showcase Data Science & Cloud Skills: Showcasing expertise in big data processing, cloud computing, SQL querying, and visualization.
 
 # Technologies and Tools
 
@@ -62,27 +62,27 @@ Interestingly, casual users take significantly longer trips compared to members.
 
 # Bike Type Preference:
 
-Between 2019 and 2024, classic bikes were used in 56.9 million trips, while e-bikes accounted for 52.55 million trips. Although classic bikes have historically been more widely used, there has been a notable shift in preference towards e-bikes since December 2023. The increasing popularity of e-bikes could be driven by user preference for easier and more efficient rides, as well as an expansion in CitiBike’s e-bike fleet. Given this trend, increasing the ratio of e-bikes to classic bikes may enhance user satisfaction and cater to growing demand.
+Between 2019 and 2024, classic bikes were used in 56.9 million trips, while e-bikes accounted for 52.55 million trips. Although classic bikes have historically been more widely used, there has been a notable shift in preference towards e-bikes since December 2023. The increasing popularity of e-bikes could be driven by user preference for easier and more efficient rides, as well as an expansion in CitiBike’s e-bike counts. Given this trend, increasing the ratio of e-bikes to classic bikes may enhance user satisfaction and cater to growing demand.
 
-# Types of Analysis Conducted
+# User Trend Analysis
 
-* Usage Trends:
-Seasonal patterns in ridership (e.g., peak months, weekends vs. weekdays).
-Annual growth or decline in usage.
-* Station Popularity:
-Most frequently used start and end stations.
-High-demand routes and their implications for station placement.
-* User Segmentation:
-Comparing trip duration and frequency between members and casual riders.
-Understanding how user types influence demand.
-* Bike Type Analysis:
-Examining preferences for bike types across different user groups.
-Assessing the efficiency and demand for electric bikes compared to classic and docked bikes.
-* Temporal Analysis:
-Hourly and daily trends to identify peak usage times.
-Recommendations for resource allocation during high-demand periods.
+Analysis of CitiBike usage data indicates that Wednesday expereinces the highest riders with a total of 16,625,149 rides, followed by Thursday (16,384,322 rides) and Friday (16,242,836 rides). These high volumes suggest that CitiBike is frequently used for commuting purposes on weekdays, likely for work or school. The average trip duration on weekdays is shorter, reinforcing that Citibike serves as a quick and efficient mode of transportation during these days.
 
+In contrast, Friday, Saturday and Sunday exhibits longest average trip duration, suggesting a shift in usuage patterns. During the weekends, the riders are more likely to be using CitiBike for leisure and travel, resulting in longer rides. 
 
+A notable increase in CitiBike rides occurs during June, surpassing all the other months by a significant number. This trend aligns with the summer season, influenced by pleasant weather and an influx of tourist in the city. Additonally, October and September also sees a significant rise in riders, suggesting that milder fall temperature encoruage bike usuage before the colder season hits the city.
+
+A time based analysis reveals that the busiest hour for the CitiBike usuage is 5:00 pm that relates with the evening rush hours when New Yorkers leave work and commute back home. This is followed by 6:00 pm and 4:00 pm, further suggesting that Citibike's role as a preferred mode of transportation for daily commuters.
+
+{ The key takeway of the from looking that the trends that Citibike could potentailly introduce promotion for weekends rides that can saves on longer rides and introduce a marketig campaign that assits touristers and New Yorkers scenic paces they could travel with CitiBike and explore the routes of New York together. } work on this
+
+# Popular Station and Routes
+
+The analysis reveals that the most popular station in the dataset is W 21st & 6th Ave, recording the highest number of trips as both a starting and ending location. This location is near the shopping area, suggesting that many CitiBike users utilize the service for shopping related trips, contributing to the high volume of rides.
+
+Additionally data shows that Tribeca (West St & Chambers St) is the second most popular station, highlighting that office workers frequently take quick rides during work hours. Expanding docking station in these high-traffic business areas could further support mid-day commuters and leisure riders.
+
+The insights suggest that adding more CitiBike docks near shopping destination and commercail areas could better accomodate user demand for btoh transportation and convenience option in high traffic routes.
 
 # Conclusion
 
