@@ -75,7 +75,7 @@ A notable increase in CitiBike rides occurs during June, surpassing all the othe
 
 A time based analysis reveals that the busiest hour for the CitiBike usuage is 5:00 pm that relates with the evening rush hours when New Yorkers leave work and commute back home. This is followed by 6:00 pm and 4:00 pm, further suggesting that Citibike's role as a preferred mode of transportation for daily commuters.
 
-{ The key takeway of the from looking that the trends that Citibike could potentailly introduce promotion for weekends rides that can saves on longer rides and introduce a marketig campaign that assits touristers and New Yorkers scenic paces they could travel with CitiBike and explore the routes of New York together. } work on this
+Given the distinct patterns in usage, CitiBike could introduce targeted initiatives to maximize engagement. Offering promotions for weekend rides that provide savings on longer trips could encourage more casual riders to use the service for leisure. Additionally, launching a marketing campaign focused on assisting tourists and local residents in discovering scenic routes and cultural landmarks through CitiBike could further enhance ridership. By strategically positioning CitiBike as both a practical commuter option and a leisure-friendly service, the company can cater to a diverse range of users while optimizing overall bike usage.
 
 Popular Station and Routes
 
