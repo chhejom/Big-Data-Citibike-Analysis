@@ -2,7 +2,7 @@
 
 # Project Overview
 
-In this project, I explored large-scale CitiBike trip data from 2019 to 2024 to uncover patterns in urban bike usage, user behavior, and station performance. I built a complete data pipeline from scratch—starting from raw ZIP files to clean datasets and visual insights while practicing skills in Python, SQL, and data storytelling
+In this project, I explored large-scale CitiBike trip data from 2019 to 2024 to uncover patterns in urban bike usage, user behavior, and station performance. I built a complete data pipeline from scratch starting from raw ZIP files to clean datasets and visual insights while practicing skills in Python, SQL, and data storytelling
 
 # Purpose of the Project
 
