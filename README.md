@@ -1,4 +1,4 @@
-# Citibike-Analysis (2019-2024) 100 million dataset
+# End-to-End Data Pipeline and Trend Analysis on NYC CitiBike Trips - 100 million dataset
 
 # Project Overview
 
