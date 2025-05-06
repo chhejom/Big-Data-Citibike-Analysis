@@ -2,16 +2,11 @@
 
 # Project Overview
 
-This project analyzes CitiBike trip data from 2019 to 2024 to understand urban mobility patterns, user behavior, and station performance. The project focuses on automating data extraction, cloud storage, transformation, and analysis to derive insights into urban mobility patterns, user behavior, and station performance.
+In this project, I explored large-scale CitiBike trip data from 2019 to 2024 to uncover patterns in urban bike usage, user behavior, and station performance. I built a complete data pipeline from scratch—starting from raw ZIP files to clean datasets and visual insights while practicing skills in Python, SQL, and data storytelling
 
 # Purpose of the Project
 
-As cities continue to evolve toward smart urban mobility systems, understanding patterns in bike-sharing data becomes essential. This project serves to:
-
-* Automate Data Processing: Develop an end-to-end ETL pipeline to extract CitiBike trip data, store it in the cloud back, and transform it for analysis and visualization.
-* Improve Resource Allocation: Identify trends and patterns to help optimize bike distribution and availability.
-* Enhance User Experience:  Analyze trip durations,  trip trends, and bike-type preferences to understand user behavior and improve service offerings.
-* Showcase Data Science & Cloud Skills: Showcasing expertise in big data processing, cloud computing, SQL querying, and visualization.
+The purpose of this project was to analyze large-scale CitiBike trip data to uncover meaningful patterns in urban mobility, rider behavior, and station usage. By building a full data pipeline—from data extraction to visualization—I aimed to demonstrate my ability to work with real-world datasets, apply data cleaning and transformation techniques, and generate actionable insights that could support data-driven decisions in transportation, city planning, or customer experience optimization
 
 # Technologies and Tools
 
